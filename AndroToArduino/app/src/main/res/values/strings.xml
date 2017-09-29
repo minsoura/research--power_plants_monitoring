@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Choco Cookie</string>
+    <string name="manual_description">1. If a serial port is connected, it BEGINs automatically. \n 2. STOP button terminates the serial communication. \n 3.CLEAR button cleans up the view and the text file contents. \n4. DISPLAY button pops up the contents of the text file. \n5. B button checks the battery level.\n6. To change the target number, click the pink envelope icon above.</string>
+</resources>
